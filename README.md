@@ -1,6 +1,6 @@
 # posterpop!
 
-[Tech Stack](#tech-stack) | [Setup](#setup) | [Testing Framework](#testing-framework) | [Our Blog](#our-blog) | [User Stories](#user-stories) | [Diagrams](#diagrams) | [Authors](#authors)
+[Tech Stack](#tech-stack) | [Setup](#setup) | [Testing Framework](#testing-framework) | [Our Blog](#our-blog) | [User Stories](#user-stories) | [Extra Features](#extra-features) | [Diagrams](#diagrams) | [Authors](#authors)
 
 *__"Schedule your cultural life with a single snap"__*
 
@@ -124,7 +124,7 @@ So that I can remove events that I am no longer interested in,
 I want to be able to delete links.
 ```
 
-## EXTRA FEATURES
+## Extra Features
 Additional features not yet implemented are listed below.
 
 ```
