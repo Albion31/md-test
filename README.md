@@ -1,22 +1,22 @@
 # posterpop!
 
-[Tech Stack](#tech-stack) | [Setup](#setup) | [Testing Framework](#testing-framework) | [Our Blog](#our-blog) | [User Stories](#user-stories) | [Authors](#authors)
+[Tech Stack](#tech-stack) | [Setup](#setup) | [Testing Framework](#testing-framework) | [Our Blog](#our-blog) | [User Stories](#user-stories) | [Diagrams](#diagrams) | [Authors](#authors)
 
 *__"Schedule your cultural life with a single snap"__*
 
-How often have you seen the poster of an event/exhibition on the street/tube, took a picture of it thinking "I'd love to go there/do this!" and forgot all about it in your phone's picture library?
+Try __posterpop!__ for yourself [here](https://posterpopapp.firebaseapp.com).
 
-posterpop! is an app that uses text recognition to allow the user to photograph that poster and return the link to the event's website. That link is then saved on the database and is shown on the app page. The user can then click on it to get redirected to the event's website at a later time.
+<!-- adding video recording here -->
 
-Additional features not yet implemented will include reminders for events for which the user has expressed an interest in but not yet purchased tickets for and  synchronisation with the user’s calendar for booked events. For a complete list of our additional features, please head to the [User Stories](#user-stories) section.
+How often have you seen the poster of an event/exhibition on the street/tube, taken a picture of it thinking "I'd love to go there/do this!" and forgotten all about the event?
 
-This is the link of our deployed web app ....
+posterpop! is an app that uses text recognition to allow the user to photograph that poster and save the link for the event's website. That link is then stored in the user's profile and is shown on the app page. The user can then click on it to get redirected to the event's website at a later time.
 
 ## Tech Stack
 - Front-End  
-:iphone: [JavaScript](https://www.javascript.com/)  
-:iphone: [Vue](https://vuejs.org/)  
-:iphone: [Bootstrap + Vue](https://bootstrap-vue.js.org/)  
+:iphone: [JavaScript ES6](https://www.javascript.com/)  
+:iphone: [Vue 2](https://vuejs.org/)  
+:iphone: [Bootstrap-Vue](https://bootstrap-vue.js.org/)
 
 - Back-End  
 :computer: [Node Modules](https://nodejs.org/api/modules.html)  
@@ -32,6 +32,9 @@ This is the link of our deployed web app ....
 :wrench: [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 
 ## Setup
+
+<!-- Check the whole API/FIREBASE key issue -->
+<!--
 1. Check if you have Node.js installed on your computer by running the command below
 ```
 $ node -v
@@ -57,7 +60,7 @@ $ npm run dev
 To check our tests, run the command below:
 ```
 $ npm test
-```
+``` -->
 
 ## Our Blog
 We have been documenting our journey on [Medium](https://medium.com/@team_processive/).
@@ -115,7 +118,14 @@ To protect the details of my account
 I want to be able to log out of the app.
 ```
 
-EXTRA FEATURES
+```
+As a User,
+So that I can remove events that I am no longer interested in,
+I want to be able to delete links.
+```
+
+## EXTRA FEATURES
+Additional features not yet implemented are listed below.
 
 ```
 As a User,
@@ -165,6 +175,9 @@ In case an event I'm interested in is sold out,
 I want the app to recommend alternative dates or locations.
 ```
 
+## Diagrams
+<!-- Add diagrams here -->
+
 ## Authors
 
 [Keran Braich](https://github.com/ker-an)  
@@ -173,3 +186,6 @@ I want the app to recommend alternative dates or locations.
 [Lea Rosamond](https://github.com/lea-rsm)  
 [Nikolaos Sakellarios](https://github.com/lunaticnick)  
 [Eleanor Wintram](https://github.com/ewintram)
+
+## License
+MIT
