@@ -1,6 +1,6 @@
 # posterpop!
 
-[Tech Stack](#Tech Stack) | [Setup](#setup) | [Testing Framework](#testing framework) | [Our Blog](#our blog) | [User Stories](#user stories) | [Authors](#authors)
+[Tech Stack](#tech_stack) | [Setup](#Setup) | [Testing Framework](#testing framework) | [Our Blog](#our-blog) | [User Stories](#userstories) | [Authors](#authors)
 
 *__"Schedule your cultural life with a single snap"__*
 
