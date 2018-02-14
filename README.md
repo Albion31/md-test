@@ -1,6 +1,6 @@
 # posterpop!
 
-[Tech Stack](#tech_stack) | [Setup](#Setup) | [Testing Framework](#testing framework) | [Our Blog](#our-blog) | [User Stories](#userstories) | [Authors](#authors)
+[Tech Stack](#tech-stack) | [Setup](#setup) | [Testing Framework](#testing-framework) | [Our Blog](#our-blog) | [User Stories](#user-stories) | [Authors](#authors)
 
 *__"Schedule your cultural life with a single snap"__*
 
@@ -8,7 +8,7 @@ How often have you seen the poster of an event/exhibition on the street/tube, to
 
 posterpop! is an app that uses text recognition to allow the user to photograph that poster and return the link to the event's website. That link is then saved on the database and is shown on the app page. The user can then click on it to get redirected to the event's website at a later time.
 
-Additional features not yet implemented will include reminders for events for which the user has expressed an interest in but not yet purchased tickets for and  synchronisation with the user’s calendar for booked events. For a complete list of our additional features, please head to the [User Stories](#user stories) section.
+Additional features not yet implemented will include reminders for events for which the user has expressed an interest in but not yet purchased tickets for and  synchronisation with the user’s calendar for booked events. For a complete list of our additional features, please head to the [User Stories](#user-stories) section.
 
 This is the link of our deployed web app ....
 
